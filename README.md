@@ -12,7 +12,11 @@ Intermediate level in English, Russian is native.
 
 **Experience**
 
-*[Ridgebox](http://www.ridgebox.com/), USA, 2017 - now*
+*[Yandex.market](https://market.yandex.ru), Saint Petersburg, 2018 - 2019*
+
+Worked in the infrastructure unit. Logging, deployment, support for the internal framework and tools for the frontend. Used **nodejs\react\python**.
+
+*[Ridgebox](http://www.ridgebox.com/), USA, 2017 - 2018*
 
 Leading brandbot.com и peregrin.io react/redux frontend development. The brandbot is a CRM integrated with mindbody. Created a flow editor along with a visual tool for designing emails. Peregrin.io is an analytics service to track competitor activities on social networks (Facebook\Instagram\Yelp\FourSquare). My responsibilities included stakeholder management, designing architecture and leading frontend development. Used **react\redux**.
 
