@@ -1,39 +1,40 @@
-**Vasilisa Versus**
+# Vasilisa Versus
 
-Web Developer. Russia, Saint Petersburg.
+Head of Frontend Developer. Russia, Saint Petersburg.
 
 dcversus@gmail.com
 
 
-**Skills**
+## Skills
 
-Vue, Angular, React. JS, TS, CSS, HTML. Version Control, Testing and Debugging, Building and Automation Tools, Responsive Web Design, Website Speed and Performance.
-Intermediate level in English, Russian is native.
+Angular, React. JS, TS. Website Speed and Performance. Agile and scrum, hiring, teamwork, mentoring, results-driven and project managment.
+English (B1), Russian is native.
 
-**Experience**
+## Experience
+
+*[Fintuity](https://fintuity.com/), London (remotely), 2021 (half year)*
+
+Tech and Team leading: hired new developers, formed product teams, participated in the formation of processes, evaluated and described a plan for rewriting legacy code, wrote design documents for front-end developers, worked on developing the skills of colleagues. Technology stack - angular, typescript, ngxs.
+
+*[Yandex.classifieds](https://auto.ru), Saint Petersburg, 2019 - 2021*
+
+Leading internal tools team in Yandex.Classifieds. I was responsible for team building, growth, and goal setting. From scratch, I formed an ecosystem of interfaces for moderation, support and sales. Responsibilities: team leading, tech leading, product and project management. Technology stack - nodejs, javascript, react, mongodb, postgresql, docker.
 
 *[Yandex.market](https://market.yandex.ru), Saint Petersburg, 2018 - 2019*
 
-Worked in the infrastructure unit. Logging, deployment, support for the internal framework and tools for the frontend. Used **nodejs\react\python**.
+Infrastructure team. Logging, deployment, support for the internal framework and tools for the product frontend teams. Responsible for several projects (tech and project leading) in the areas of refactoring, speeding up page rendering and optimizing internal traffic. Technology stack - nodejs (BFF with SSR), typescript, flow, python, react.
 
-*[Ridgebox](http://www.ridgebox.com/), USA, 2017 - 2018*
+*[Ridgebox](http://www.ridgebox.com/), USA (remotely), 2017 - 2018*
 
-Leading brandbot.com и peregrin.io react/redux frontend development. The brandbot is a CRM integrated with mindbody. Created a flow editor along with a visual tool for designing emails. Peregrin.io is an analytics service to track competitor activities on social networks (Facebook\Instagram\Yelp\FourSquare). My responsibilities included stakeholder management, designing architecture and leading frontend development. Used **react\redux**.
-
+Team and tech leading brandbot.com и peregrin.io. Has experienced with rapid company growth. Took part in solving problems with mass recruitment, onboarding and growth of developers skills. In the beginning, I worked as a developer in difficult areas: such as the development of business processes visual constructor (WebGL). Fully responsible for the architecture of the frontend applications (instruments, backend contracts and application data flow). Technology stack - nodejs, react, redux, typescript.
 
 *[LPTracker](http://lptracker.ru/), Saint Petersburg, 2016 — 2017*
 
-Сonstructor.lptracker.ru - developing a landing page visual development tool. Techologies used: **react\redux\strongloop\expressjs**. My team was tasked to utilize companies experience in building landing pages and microserver architecture to create a no-code needed visual landing construction tool. My responsibilities included designing project architecture and leading the development team. 
+constructor.lptracker.ru - landing page constructor. I hired a development team (backend, frontend, qa) and worked as a development team leader (working closely with the product owner, making product decisions together and analyzed competitors). I was responsible for project management, technical stack, architecture of the entire service, devops and team leadership. Part-time writing code at beginning. Technology stack - nodejs, javascript, react, mobx, docker, ngnix.
 
-Considering the requirements I designed a three-part architecture: Backend part taking care of the users website data, Editor for landing page creation, Frontend taking care of gathering statistical.
+*[Convermax](http://www.convermax.com/), Rostov-on-Don, 2016 (half year)*
 
-I took part in developing all three parts. Most of the effort was put towards creating a minimalistic interface and landing page development flow automation including a real-time supporting tips flow. I designed backend in a series of module services that could support multiple features down the product pipeline, such as billing, authorization, etc. The product was developed and as MVP and ultimately scrapped. I was responsible for the product development, team management and requirements management. 
-
-
-*[Convermax](http://www.convermax.com/), Rostov-on-Don, 2016 — 2016 (half year)*
-
-Onewindowapp.com B2B portal development: an integrated solution for Office 365 integration. Built on **angular** and **typescript**. I was the lead of modular front-end development. Completed the delivery of a real-time chat, including moderation and other tool sets and a proprietary wysiwyg editor (medium-editor alike). Mostly worked with typescript/angular. Acquired experience on working in a big team with polished business-processes.
-
+Joined the development of Onewindowapp.com portal. I have developed several independent modules in a team, as a senior developer. Took part in the technical leading. Completed the delivery of a real-time chat and a own wysiwyg editor (medium-editor alike). Acquired experience on working in a big team with polished business-processes. Mostly worked with typescript and angular.
 
 *[RNDSoft](http://rnds.pro/), Rostov-on-Don, 2014 — 2016*
 
@@ -51,18 +52,25 @@ Started out as a developer, but as my experience grew I took up more and more re
 
 Preparing designs for printing/thermal printing. Tracing images. Designing new logos and simple UI kits. Designing layouts and publishing simple websites. Started taking part in designing technical structures for larger projects.
 
+## About
 
-**Education**
+Experienced Team and Tech Lead with B2G, B2B, B2C experience in small (1-3) and big (~40 devs) teams. Participated in development as all roles (design, qa, devops, architecture, fe, be, pm). Hiring, adaptation, training and helping grow colleagues. Most worked remotely.
+
+Now I see my point of growth as a Engineering Manager. I want to develop teams that are interested in the product and personal growth. I want to learn how to do that with best engineering practices.
+
+In the past was responsible and engaged in the development of MVPs and supporting high load services. I have production experience with backend development (nodejs, python, java) and devops (docker, ansible, teamcity, prometheus, jaeger, sentry, selenium, aws). As a hobby, I made applications with electron (for desktop) and react native (for mobile). Well versed in building design systems (figma, ps) from scratch. Web templating from tables to grid on production, I also remember hacks for IE 8 :)
+
+## Education
 
 Information Security Bachelors Degree,
 [Rostov State University of Economics](http://int.rsue.ru/)
 
 
-**Volunteering**
+## Volunteering
 
-I work with [uz0](https://uz0.ru) – a project on gathering data and education. I gather groups of new developers and educate them on whatever I happen to be good at. My main goal is to motivate them to pay it forward on the other projects. We get together and develop web projects and games, it’s a lot of fun for all of us! 
+I created [uz0](https://uz0.ru) *2014 - now* – a project on gathering knowledge and joint learning. I seeking creative people and unite them to working in groups for educational purposes. My main goal is to motivate them and push to develop together. We love games, development and communication. Sharing knowledge and creating internet is fun!
 
-**Creative outlet**
+## Creative outlet
 
 Currently developing a sci-fi universe, named [theedgestory](https://theedgestory.ru), that hosts a few visual novels along with gaming experiences. I try to bring together people like-minded people, work and play as a team and have a good time with it! 
 
