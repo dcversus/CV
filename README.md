@@ -1,17 +1,23 @@
 # Vasilisa Versus
 
-Engineering manager. Portugal, Lisbon. EN/RU.
+Engineering manager. Portugal, Lisbon. EN | RU.
 
-dcversus@gmail.com
+dcversus@gmail.com | [linkedin](https://www.linkedin.com/in/dcversus/)
 
 
 ## Skills
 
 - Leadership and Management: Team Building and Hiring, Department Scaling, Partnership Management, Cross-functional Collaboration, Mentoring and Coaching, Performance Metrics and KPIs, Incident Management, OKRs and PDPs Implementation, Conflict Resolution
-- Technical Expertise: Frontend Development, Micro-frontend Architecture, Rust Smart Contracts, TypeScript SDKs, API Development, Refactoring and Architecture Design, CI/CD Pipeline Automation, DX Optimization, Core Component Development
+- Technical Expertise: Frontend Development, Micro-frontends, Rust Smart Contracts, TypeScript SDKs, API Development, Refactoring and Architecture Design, CI/CD Pipeline Automation, DX Optimization
 - Community and Marketing: Developer Relations (DevRel), Marketing Strategy, Article Writing and Proofreading, Public Speaking (AMAs, Conferences), Online Hackathon Organization, Social Media Engagement
 - Project Management: Project Planning and Coordination, Documentation and Guidelines Creation, Onboarding Pipeline Formalization, Process Streamlining, Integration Management
 - Strategic Vision: Product Scaling, Market Expansion, User Value Enhancement, Media and Public Relations, Vision Alignment with Company Goals
+
+## About
+
+I am an engineering manager with a diverse background and strong technical expertise. I have experience launching MVPs to market and organizing large-scale refactoring projects in corporations. I help businesses grow faster by bridging gaps with my all-around skills, systematic approach, and passion for transparent processes.
+
+I value people’s drive for growth and strive to help those around me grow quickly and comfortably. For me, mentorship isn’t just about teaching someone new skills; it’s about creating a solid foundation and comprehensive support for individuals who want to self-educate and make a difference.
 
 ## Experience
 
@@ -19,8 +25,6 @@ dcversus@gmail.com
 > As the __Head of Pontem Wallet__, I led few teams and helped scale our product. I hired and built a strong team department, managed partnerships, and streamlined our development process. I worked closely with the CTO and CEO to ensure our goals aligned with the company vision. My efforts in restructuring the architecture made it easy to add new blockchains quickly, boosting our product's capabilities and reach new audience.
 
 I used my personal twitter and attract to my DM over 100 people (from 50k views), conducted around 40 interviews, and hired 6 key team members including a head of QA, two team leaders, and senior full-stack developers. The hiring process was collaborative and well documented. I also mentored new leads, gradually handing over responsibilities and supporting them as they grew into their roles.
-
-I reached out few CTO from my network to form valuable partnerships. These collaborations were crucial for adding user value and generating media buzz, aligning with the CEO's vision. I coordinated integration opportunities and timelines to ensure smooth and beneficial partnerships.
 
 I was actively involved in development, initially handling refactoring and creating the whole app architecture. Created parts of the interface to serve as organizational examples for other developers. And setting up an independent core with a isolated communication layer. Using my past experience, I picked out all the common things from different blockchains, and started development by creating a guide to how to add a new chain. Already on top of the guide I am build APIs with a key focus on DX.
 
@@ -34,7 +38,7 @@ I engaged with the developer community by writing and proofreading articles, spe
 ### [Sbermarket](https://app.sbermarket.ru/), Saint Petersburg, 2021-2022
 > I was hired as __Head of Frontend Platform__ at Sbermarket to grow the department from 5 people to 40 employees in order to achieve company objectives. I facilitated architecture documentation processes, led the process of separating the frontend from the rails monolith, implemented OKRs and PDPs. I was responsible for incident management, set up performance metrics and reported KPIs.
 
-I, as well as many of my coworkers, ran coaching calls for product frontenders. We were responsible for the performance of a total of 200 frontenders and worked on refactoring projects with our own hands - mostly moving frontend components from old rails monolyth to micro-frontend architecture. We collected feedback and incrementally improved DX, and I built performance metrics, evaluating how our suggestions would impact development process.
+I, as well as my subordinates, ran coaching calls for product frontenders. We were responsible for the performance of a total of 200 frontenders and worked on refactoring projects with our own hands - mostly moving frontend components from old rails monolyth to micro-frontend architecture. We collected feedback and incrementally improved DX, and I built performance metrics, evaluating how our suggestions would impact development process.
 
 The most important work turned out to be the formalization and tuning of the hiring and onboarding pipeline. The initially unpredictable process was formalized in confluence documentation in the format of simple guidelines: from the form of note-taking during the hiring process, with examples of questions and challenges, to welcome tasks from the backlog and a clear checklist of what a newcomer needs to do. That actions made onboarding process timeline from a few months to a very comfortable two weeks for a new frontend developer.
 
@@ -68,60 +72,57 @@ Joined the brandbot.com project when deadlines were tight and provided an early 
 Coordinated team building for the prototyping of peregrine.io. Hired 7 people including an AI specialist and launched the MVP to first 1000 users in a short time (about 4 months). Helped the company deal with issues that came up during the launch. Enforced everything with metrics, on-call, and made sure delivery to production was on schedule.
 
 ### [LPTracker](http://lptracker.ru/), Saint Petersburg, 2016 - 2017
+> I was invited to join an experimental team to develop an AI-based website builder prototype as a __Team Lead__ to LPTracker. My role involved hiring a team of developers, setting up processes, and working closely with the product manager to bring the vision to life.
 
+Analyzed competitors, designed the UX, developed core components using and brought the MVP to its first 100 users in just 2 months. Incrementally developing the product, relying on metrics and ensuring its stability, prepared everything for possible pivots.
 
-```
-WIP
+Techstack was **Nodejs**, **React** and **Python**.
 
-*[LPTracker](http://lptracker.ru/), Saint Petersburg, 2016 — 2017*
+### [Convermax](https://convermax.com/), Rostov-on-Don, 2016 (*a half year*)
+> I joined the development team as __Frontend Developer__ to work on Onewindowapp.com portal, contributing to the development as individual contributor and participating in technical leadership. **Typescript** and **Angular 3**.
 
-constructor.lptracker.ru - landing page constructor. I hired a development team (backend, frontend, qa) and worked as a development team leader (working closely with the product owner, making product decisions together and analyzed competitors). I was responsible for project management, technical stack, architecture of the entire service, devops and team leadership. Part-time writing code at beginning. Technology stack - nodejs, javascript, react, mobx, docker, ngnix.
+Delivered a real-time chat and a own wysiwyg editor (medium-editor alike). Acquired experience on working in a big team with polished business-processes.
 
-*[Convermax](http://www.convermax.com/), Rostov-on-Don, 2016 (half year)*
+### [RNDSoft](https://rnds.pro/), Rostov-on-Don, 2014-2016
+> Participated in a variety of internal projects (b2c, b2b, b2g) as a __Frontend Developer__. Starting with simple landing pages all the way up to SPA applications built on **angular JS** with backend on **Ruby on Rails**.
 
-Joined the development of Onewindowapp.com portal. I have developed several independent modules in a team, as a senior developer. Took part in the technical leading. Completed the delivery of a real-time chat and a own wysiwyg editor (medium-editor alike). Acquired experience on working in a big team with polished business-processes. Mostly worked with typescript and angular.
-
-*[RNDSoft](http://rnds.pro/), Rostov-on-Don, 2014 — 2016*
-
-Participated in a variety of internal projects (b2c, b2b, b2g). Starting with simple landing pages all the way up to SPA applications built on **angular JS** with backend on **Ruby on Rails** (I took small part on it too).
-
-* Opensea.pro: SPA portal. Done layouts and interactive elements development along with fillable forms and analytics. 
-* don24.ru molotro.ru – both portals are designed as a singular service including a public comment section, news feed and an administration interface for publication pipeline.
-* Esia.pro – a landing page and an authorization module using Bitrix ESIA
-* priem.donland.ru – an interactive governor office with a video chat based on webtrc. Including an interface and pipeline for problem solving: real people applying to solve their issues and completing paperwork along with government employees. 
+- Opensea.pro: SPA portal. Done layouts and interactive elements development along with fillable forms and analytics. 
+- don24.ru molotro.ru – both portals are designed as a singular service including a public comment section, news feed and an administration interface for publication pipeline.
+- Esia.pro – a landing page and an authorization module using Bitrix ESIA
+- priem.donland.ru – an interactive governor office with a video chat based on webtrc. Including an interface and pipeline for problem solving: real people applying to solve their issues and completing paperwork along with government employees. 
 
 Started out as a developer, but as my experience grew I took up more and more responsibilities in a team with good business processes. Took part in onboarding new coworkers and brought additional value to the projects. Worked on a variety of projects full-circle, including negotiations.
 
+### [AllDesign](http://alldesign.su/), Rostov-on-Don, 2013-2014
+> I worked as an product and industrial __Designer__.
 
-*[AllDesign](http://alldesign.su/), Rostov-on-Don, 2013 — 2014*
+- Converted raster logos to vector format for thermal printing
+- Created logos for local businesses
+- Developed simple websites using a website builder
 
-Preparing designs for printing/thermal printing. Tracing images. Designing new logos and simple UI kits. Designing layouts and publishing simple websites. Started taking part in designing technical structures for larger projects.
-```
+## Volunteering
 
-## About
+### [UZ0](https://uz0.ru), 2014-2018
+> I organized free educational courses for project managers, testers, backend, and frontend developers. My goal was to provide real product development experience to senior university students. By the end of each semester, I brought together different groups to work on projects.
 
-```
-WIP
+— Trained Over 100 Students.
+— Completely Free: Initially handled at my university, and later remotely.
+— High Evaluation: Graduates were rated as mid-level developers by companies.
+— Hiring Success: Hired some of the students into the companies I worked for.
+— Diverse Projects: Graduation projects included work for small local businesses and even a church parish.
+— Technical Focus: Backend development was in PHP and Node.js, while frontend was in AngularJS and Backbone.js.
 
-Experienced Team and Tech Lead with B2G, B2B, B2C experience in small (1-3) and big (~40 devs) teams. Participated in development as all roles (design, qa, devops, architecture, fe, be, pm). Hiring, adaptation, training and helping grow colleagues. Most worked remotely. Now I see my point of growth as a Engineering Manager. I want to develop teams that are interested in the product and personal growth. I want to learn how to do that with best engineering practices. In the past was responsible and engaged in the development of MVPs and supporting high load services. I have production experience with backend development (nodejs, python, java) and devops (docker, ansible, teamcity, prometheus, jaeger, sentry, selenium, aws). As a hobby, I made applications with electron (for desktop) and react native (for mobile). Well versed in building design systems (figma, ps) from scratch. Web templating from tables to grid on production, I also remember hacks for IE 8 :)
-```
+## Creative outlet
+
+[The Edge Story](https://theedgestory.ru) is the project of a lifetime of mine. An sci-fi universe about the frontiers of humanity's consciousness.
+
+### The Edge Story: Prolgue, Ep1, 2017-2020
+A true paper comic prequel of 58 pages in hardcover. I hired a whole team of digital artists, paying for the work out of my own resources, organized the pipeline and the reporting process.
+
+### The Edge Story, from 2011
+The main book. Now it is a set of fragmented drafts that I am gradually developing and improving over time.
 
 ## Education
 
 Information Security Bachelors Degree,
 [Rostov State University of Economics](http://int.rsue.ru/)
-
-## Volunteering
-
-```
-WIP
-I created [uz0](https://uz0.ru) *2014 - now* – a project on gathering knowledge and joint learning. I seeking creative people and unite them to working in groups for educational purposes. My main goal is to motivate them and push to develop together. We love games, development and communication. Sharing knowledge and creating internet is fun!
-```
-
-## Creative outlet
-
-```
-WIP
-Currently developing a sci-fi universe, named [theedgestory](https://theedgestory.ru), that hosts a few visual novels along with gaming experiences. I try to bring together people like-minded people, work and play as a team and have a good time with it! 
-```
-
