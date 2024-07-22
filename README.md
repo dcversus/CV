@@ -40,24 +40,38 @@ The most important work turned out to be the formalization and tuning of the hir
 
 Documenting of the frontend architecture and enforcing technical agreements, on top of the basic daily work, was a big challenge that paid off. I created a collaborative environment where developers can propose their ideas and discuss them according to my defined process for changing the agreements through PR. As a result, the overall number of conflicts decreased and the code-review process took less than a day on average, when in the past some requests used to hang around for weeks.
 
+### [Fintuity](https://fintuity.com/), London (*remotely*), 2021 (*a half year*)
+> I was hired as __Head of Frontend__ at Fintuity to make the frontend delivery process predictable, before me releases were not transparent and happened through a lot of pain and fixes every half a year at best. I achieved a predictable release through refactoring fragile parts with my own hands, partially automating testing, hiring multiple employees and dividing the areas of responsibility between them.
+
+Carried out a complete transformation of the workflow. Started with setting up a process of task decomposition, providing developers with atomic and described tickets of several days' volume. Implemented: a planning ritual, code review of frontend code, manual testing before meging PRs on demostands. Documented the state of the code and rewrote the most fragile parts with my own hands, covering them with autotests.
+
+### [Yandex.Classifieds](https://auto.ru), Saint Petersburg, 2019 - 2021
+> My goal as __Team Lead__ at Yandex.Classefields (auto.ru and realty.ya.ru) was to build a team to develop administrative services for moderators, support and sales from scratch. I was an active individual contributor as well as gathering requirements from stakeholders, structuring them into a product description, recruiting team members and implementing several closely related tools.
+
+Keeping developers out of the production database and out of dealing with issues of users and internal customers wants. It was necessary to create a lot of small utilities, with a single system of permissions that would be maintained by the security department. At the same time, fencing off access rights would have stopped work due to customer complaints. My work started in gathering requirements between 10 different stakeholder groups, finding a compromise and creating a backlog and a common prioritization system for all, as well as estimating the required capacity in order to hire developers. I structured the development process from 0 and formed two independent teams of 8 people.
+
+### [Yandex.Market](https://market.yandex.ru/), Saint Petersburg, 2018 - 2019
+
+> As a __Frontend Architect__ at Yandex.Market, I was a stakeholder for several internal components, including the development of an internal React-based framework. I was part of the on-call team and handled incidents. I worked towards achieving key company infrastructure OKRs related to TTI/TTFB and participated in a major refactoring project, coordinating work and resource allocation among dozens of developers.
+
+Responded to SDK developers' issues: collected feedback, fixed bugs and improved DX. Continuously developed documentation and collected FAQs for frequent questions from developers.
+
+Responsible as project manager for a large project transitioning from old infrastructure to new one. Led organizational calls, documented the architectural design, and assisted with resolving issues that occurred. Overall coordinated the process for specific parts of the application.
+
+Set up experiments using binary formats for client-server communication and proposed implementation solution roadmap. Implemented mechanism for bulk progressive initialization to significantly save resources during server-side rendering (SSR). Done experiments with HTTP/2 to reduce the number of backend connections.
+
+### [Ridgebox](https://ridgebox.com/), New York (*remotely*), 2017 - 2018
+> As the __Team Lead__ of the MVP cross functional dev team in Ridgebox and as a top frontend developer in the company, I reinforced the frontend competencies in the company. Thanks to me a lot of frontenders were hired and a hiring and onboarding pipeline was built. Have done 75+ interviews. I designed all key frontend components and mentored developers.
+
+Joined the brandbot.com project when deadlines were tight and provided an early start to the project. It was planned to be about 6 months of work, but I was able to cut it down to 3 months. All due to the fact that I threw all my individual resources on the most complex component and work with Web 3d graphics via Three.js myself.
+
+Coordinated team building for the prototyping of peregrine.io. Hired 7 people including an AI specialist and launched the MVP to first 1000 users in a short time (about 4 months). Helped the company deal with issues that came up during the launch. Enforced everything with metrics, on-call, and made sure delivery to production was on schedule.
+
+### [LPTracker](http://lptracker.ru/), Saint Petersburg, 2016 - 2017
+
+
 ```
 WIP
-
-*[Fintuity](https://fintuity.com/), London (remotely), 2021 (half year)*
-
-Tech and Team leading: hired new developers, formed product teams, participated in the formation of processes, evaluated and described a plan for rewriting legacy code, wrote design documents for front-end developers, worked on developing the skills of colleagues. Technology stack - angular, typescript, ngxs.
-
-*[Yandex.classifieds](https://auto.ru), Saint Petersburg, 2019 - 2021*
-
-Leading internal tools team in Yandex.Classifieds. I was responsible for team building, growth, and goal setting. From scratch, I formed an ecosystem of interfaces for moderation, support and sales. Responsibilities: team leading, tech leading, product and project management. Technology stack - nodejs, javascript, react, mongodb, postgresql, docker.
-
-*[Yandex.market](https://market.yandex.ru), Saint Petersburg, 2018 - 2019*
-
-Infrastructure team. Logging, deployment, support for the internal framework and tools for the product frontend teams. Responsible for several projects (tech and project leading) in the areas of refactoring, speeding up page rendering and optimizing internal traffic. Technology stack - nodejs (BFF with SSR), typescript, flow, python, react.
-
-*[Ridgebox](http://www.ridgebox.com/), USA (remotely), 2017 - 2018*
-
-Team and tech leading brandbot.com и peregrin.io. Has experienced with rapid company growth. Took part in solving problems with mass recruitment, onboarding and growth of developers skills. In the beginning, I worked as a developer in difficult areas: such as the development of business processes visual constructor (WebGL). Fully responsible for the architecture of the frontend applications (instruments, backend contracts and application data flow). Technology stack - nodejs, react, redux, typescript.
 
 *[LPTracker](http://lptracker.ru/), Saint Petersburg, 2016 — 2017*
 
