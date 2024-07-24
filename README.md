@@ -136,12 +136,12 @@ I grew a network through my Twitter and help people in the community by voluntee
 ### [UZ0](https://uz0.ru), 2014-2018
 > I organized free educational courses for project managers, testers, backend, and frontend developers. My goal was to provide real product development experience to senior university students. By the end of each semester, I brought together different groups to work on projects.
 
-— Trained Over 100 Students.
-— Completely Free: Initially handled at my university, and later remotely.
-— High Evaluation: Graduates were rated as mid-level developers by companies.
-— Hiring Success: Hired some of the students into the companies I worked for.
-— Diverse Projects: Graduation projects included work for small local businesses and even a church parish.
-— Technical Focus: Backend development was in PHP and Node.js, while frontend was in AngularJS and Backbone.js.
+- Trained Over 100 Students.
+- Completely Free: Initially handled at my university, and later remotely.
+- High Evaluation: Graduates were rated as mid-level developers by companies.
+- Hiring Success: Hired some of the students into the companies I worked for.
+- Diverse Projects: Graduation projects included work for small local businesses and even a church parish.
+- Technical Focus: Backend development was in PHP and Node.js, while frontend was in AngularJS and Backbone.js.
 
 ## Creative outlet
 
