@@ -84,7 +84,7 @@ Techstack was **Nodejs**, **React** and **Python**.
 Delivered a real-time chat and a own wysiwyg editor (medium-editor alike). Acquired experience on working in a big team with polished business-processes.
 
 ### [RNDSoft](https://rnds.pro/), Rostov-on-Don, 2014-2016
-> Participated in a variety of internal projects (b2c, b2b, b2g) as a __Frontend Developer__. Starting with simple landing pages all the way up to SPA applications built on **angular JS** with backend on **Ruby on Rails**.
+> Participated in a variety of internal projects (b2c, b2b, b2g) as a __Frontend Developer__ in outstaff studio. Starting with simple landing pages all the way up to SPA applications built on **angular JS** with backend on **Ruby on Rails**.
 
 - Opensea.pro: SPA portal. Done layouts and interactive elements development along with fillable forms and analytics. 
 - don24.ru molotro.ru – both portals are designed as a singular service including a public comment section, news feed and an administration interface for publication pipeline.
@@ -94,13 +94,44 @@ Delivered a real-time chat and a own wysiwyg editor (medium-editor alike). Acqui
 Started out as a developer, but as my experience grew I took up more and more responsibilities in a team with good business processes. Took part in onboarding new coworkers and brought additional value to the projects. Worked on a variety of projects full-circle, including negotiations.
 
 ### [AllDesign](http://alldesign.su/), Rostov-on-Don, 2013-2014
-> I worked as an product and industrial __Designer__.
+> I worked as an product and industrial __Designer__. AllDesign is a small studio doing small batch orders for local businesses
 
 - Converted raster logos to vector format for thermal printing
 - Created logos for local businesses
 - Developed simple websites using a website builder
 
+## Consulting
+Sometimes I provide assistance and helping to solve cases as an external consultant. I don't spend more than 10 hours a week on this.
+
+### [Supa Doge](https://supadoge.com/), Praga (*remotely*), 2021-2023
+- Hired a C# Unity developer and 2 Node.js developers
+- Designed the gameops system
+- Established a workflow pipeline with game designer for developers
+- Conflict Resolution
+- Incident Management
+
+### [Nrboom](https://www.crunchbase.com/organization/nrboom), New York (*remotely*), 2019-2020
+- Hired 2 React Native developers and 1 Node.js developer
+- Setup delivery pipeline
+- Performed UX research for user dashboard
+- Designed whole app architecture
+- Handled infra monitoring dashboard
+
+### [Esportbits](https://www.youtube.com/@esportbits1774), Tallinn (*remotely*), 2018-2019
+- Reviewed smart contracts to ensure security and efficiency
+- Early task decomposition. Setup pipline for freelance web-developers, including setting deadlines, task descriptions, and acceptance criteria
+- Assisted in proofreading and refining the whitepaper to ensure clarity and accuracy
+- Developed a mini web application based on the platform and facilitated activity on it using personal social media for proofing platform performance
+
+### SAI DAO, New York (*remotely*), 2017-2018
+- Developed complex 3d web components for promo
+- Deployed and maintained a erc20 smart contract for IDO
+- Designed a KYC system
+
 ## Volunteering
+
+### Volunteer Mentor, 2023-now
+I grew a network through my Twitter and help people in the community by volunteering up to 2 hours a week for free. My menti is senior+ grade across different industries.
 
 ### [UZ0](https://uz0.ru), 2014-2018
 > I organized free educational courses for project managers, testers, backend, and frontend developers. My goal was to provide real product development experience to senior university students. By the end of each semester, I brought together different groups to work on projects.
@@ -117,7 +148,9 @@ Started out as a developer, but as my experience grew I took up more and more re
 [The Edge Story](https://theedgestory.ru) is the project of a lifetime of mine. An sci-fi universe about the frontiers of humanity's consciousness.
 
 ### The Edge Story: Prolgue, Ep1, 2017-2020
-A true paper comic prequel of 58 pages in hardcover. I hired a whole team of digital artists, paying for the work out of my own resources, organized the pipeline and the reporting process.
+A true paper comic prequel of 58 pages in hardcover. I hired and maintain a team of: 6 digital artists, team lead designer, one script writer, organized the pipeline and provided creative control.
+
+A unique experience where I was able to bring all the niceties of automation from IT and gain management experience outside of IT at the same time.
 
 ### The Edge Story, from 2011
 The main book. Now it is a set of fragmented drafts that I am gradually developing and improving over time.
